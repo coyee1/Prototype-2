@@ -230,7 +230,7 @@ GameObject:
   - component: {fileID: 829031234}
   - component: {fileID: 829031233}
   m_Layer: 0
-  m_Name: enemy 1
+  m_Name: animal 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -509,7 +509,7 @@ GameObject:
   - component: {fileID: 1072431571}
   - component: {fileID: 1072431570}
   m_Layer: 0
-  m_Name: Player
+  m_Name: butcher
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -606,7 +606,7 @@ GameObject:
   - component: {fileID: 1114217506}
   - component: {fileID: 1114217505}
   m_Layer: 0
-  m_Name: enemy 4
+  m_Name: animal 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -743,7 +743,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: bd3968161370e4ad98dd164589a1dde8, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -801,7 +801,7 @@ GameObject:
   - component: {fileID: 1588144016}
   - component: {fileID: 1588144015}
   m_Layer: 0
-  m_Name: enemy 2
+  m_Name: animal 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -898,7 +898,7 @@ GameObject:
   - component: {fileID: 1947186637}
   - component: {fileID: 1947186636}
   m_Layer: 0
-  m_Name: enemy 3
+  m_Name: animal 3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
